@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testFacebookLogin</string>
+
+    <!-- TODO: change FACEBOOK_KEY_API to your facebook api app -->
+    <string name="facebook_app_id">FACEBOOK_KEY_API</string>
+    <string name="fb_login_protocol_scheme">fbFACEBOOK_KEY_API</string>
+
+</resources>
